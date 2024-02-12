@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/yii-application" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/yii-application/backend/tests" isTestSource="true" packagePrefix="backend\tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/yii-application/backend/tests/_support" isTestSource="true" packagePrefix="backend\tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/yii-application/common/tests" isTestSource="true" packagePrefix="common\tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/yii-application/common/tests/_support" isTestSource="true" packagePrefix="common\tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/yii-application/frontend/tests" isTestSource="true" packagePrefix="frontend\tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/yii-application/frontend/tests/_support" isTestSource="true" packagePrefix="frontend\tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/yii-application/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/behat/gherkin" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/bower-asset/bootstrap" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/bower-asset/inputmask" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/bower-asset/jquery" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/bower-asset/punycode" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/bower-asset/yii2-pjax" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/cebe/markdown" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/codeception/codeception" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/codeception/lib-asserts" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/codeception/lib-innerbrowser" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/codeception/lib-web" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/codeception/module-asserts" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/codeception/module-filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/codeception/module-yii2" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/codeception/stub" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/codeception/verify" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/ezyang/htmlpurifier" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/masterminds/html5" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/phpspec/php-diff" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/browser-kit" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/dom-crawler" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/mailer" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/yiisoft/yii2" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/yiisoft/yii2-bootstrap5" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/yiisoft/yii2-composer" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/yiisoft/yii2-debug" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/yiisoft/yii2-faker" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/yiisoft/yii2-gii" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/yiisoft/yii2-symfonymailer" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/lcobucci/jwt" />
+      <excludeFolder url="file://$MODULE_DIR$/yii-application/vendor/sizeg/yii2-jwt" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

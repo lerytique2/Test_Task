@@ -1,0 +1,6 @@
+.env
+/vendor/
+/runtime/
+/web/assets/
+/node_modules/
+/vue-frontend/dist

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="highlightLevel" value="WARNING" />
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/yiisoft/yii2-symfonymailer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/yiisoft/yii2-bootstrap5" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/composer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/codeception/lib-asserts" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/codeception/lib-innerbrowser" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/codeception/lib-web" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/codeception/module-asserts" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/codeception/module-filesystem" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/codeception/module-yii2" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sizeg/yii2-jwt" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/lcobucci/jwt" />
+    </include_path>
+  </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="ffe44dc8-db2e-4c65-aee1-eaa80f62ef00" name="testtask-php:latest" home="docker://DATA" auto="false" debugger_id="php.debugger.XDebug">
+        <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="testtask-php:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" />
+      </interpreter>
+    </interpreters>
+  </component>
+  <component name="PhpInterpretersPhpInfoCache">
+    <phpInfoCache>
+      <interpreter name="testtask-php:latest">
+        <phpinfo binary_type="PHP" php_cli="/usr/local/bin/php" path_separator=":" version="8.3.2">
+          <additional_php_ini>/usr/local/etc/php/conf.d/docker-fpm.ini, /usr/local/etc/php/conf.d/docker-php-ext-pdo_mysql.ini, /usr/local/etc/php/conf.d/docker-php-ext-sodium.ini</additional_php_ini>
+          <configuration_file />
+          <configuration_options>
+            <configuration_option name="include_path" value=".:/usr/local/lib/php" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_sqlite" />
+            <extension name="posix" />
+            <extension name="random" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="sodium" />
+            <extension name="sqlite3" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+    </phpInfoCache>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.3" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="ffe44dc8-db2e-4c65-aee1-eaa80f62ef00" custom_loader_path="C:/Users/orilo/PhpstormProjects/TestTask/yii-application/vendor/autoload.php" />
+      <phpunit_by_interpreter interpreter_id="ffe44dc8-db2e-4c65-aee1-eaa80f62ef00" custom_loader_path="C:/Users/orilo/PhpstormProjects/TestTask/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
